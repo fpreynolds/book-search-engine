@@ -16,6 +16,8 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "@apollo/client": "^3.6.5"
+    "@apollo/client": "^3.6.5",
+    "@apollo/react-hooks": "^4.0.0",
+    "react-hooks": "^1.0.1"
   }
 }
